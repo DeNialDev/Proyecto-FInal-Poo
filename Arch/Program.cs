@@ -10,6 +10,7 @@ namespace Arch
         static void Main(string[] args)
         
         {
+            //Cambiar por ruta relativa para evitar errores
             string path = @"E:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\bin\Debug\miarchivo.txt";
             string[,] Datos = new string[6, 5];
             Proceso ob = new Proceso(path);
