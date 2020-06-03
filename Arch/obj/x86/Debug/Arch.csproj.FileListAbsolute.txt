@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\obj\x86\Debug\Arch.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\obj\x86\Debug\Arch.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\obj\x86\Debug\Arch.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\bin\Debug\Arch.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\bin\Debug\Arch.pdb
+E:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\bin\Debug\Arch.exe
+E:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\bin\Debug\Arch.pdb
+E:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\obj\x86\Debug\Arch.csprojAssemblyReference.cache
+E:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\obj\x86\Debug\Arch.exe
+E:\Users\Daniel\Documents\Visual Studio 2010\Projects\Final\Arch\obj\x86\Debug\Arch.pdb
